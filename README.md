@@ -8,3 +8,5 @@ b.使用predict.py进行预测。
 c.运行get_miou.py即可获得miou大小。  
 
 d.用summary.py进行参数量和浮点数计算。
+
+要求：pytorch1.2 , python3.7 
